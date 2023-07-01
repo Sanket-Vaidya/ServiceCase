@@ -1,0 +1,10 @@
+testBase\CreateBug.class
+pageObjects\BugPage.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+pageObjects\QueryPage.class
+pageObjects\Login.class
+pageObjects\ServiceCasePage.class
+testBase\BuildingDesignAreaPath.class
+pageObjects\BasePage.class
+testBase\CopyWorkItems.class
